@@ -2,4 +2,4 @@
 
 Example of Mongoose Connection via SSH Tunnel
 
-![alt SSH Tunneling - Local Forwarding](./ssh-tunneling-local-forwarding.jpg)
+![SSH Tunneling - Local Forwarding](./ssh-tunneling-local-forwarding.jpg)
